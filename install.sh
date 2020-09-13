@@ -22,3 +22,6 @@ checkroot
 
 printf "\e[1;92mAll Requires are installed!\n\e[0m"
 
+cd instainsane
+chmod +x instainsane.sh
+sudo ./instainsane.sh
